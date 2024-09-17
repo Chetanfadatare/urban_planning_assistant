@@ -1,3 +1,6 @@
 venv/
 *.pyc
-.env
+.env.txt
+git add .gitignore
+git commit -m "Add .gitignore to exclude sensitive files"
+
